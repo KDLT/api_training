@@ -1,0 +1,110 @@
+{
+    "coins": [
+        {
+            "item": {
+                "id": "cryptoblades",
+                "coin_id": 15334,
+                "name": "CryptoBlades",
+                "symbol": "SKILL",
+                "market_cap_rank": 329,
+                "thumb": "https://assets.coingecko.com/coins/images/15334/thumb/cryptoblade.PNG?1620596874",
+                "small": "https://assets.coingecko.com/coins/images/15334/small/cryptoblade.PNG?1620596874",
+                "large": "https://assets.coingecko.com/coins/images/15334/large/cryptoblade.PNG?1620596874",
+                "slug": "cryptoblades",
+                "price_btc": 0.003512302779428215,
+                "score": 0
+            }
+        },
+        {
+            "item": {
+                "id": "wall-street-games",
+                "coin_id": 15872,
+                "name": "Wall Street Games",
+                "symbol": "WSG",
+                "market_cap_rank": 854,
+                "thumb": "https://assets.coingecko.com/coins/images/15872/thumb/X3Awe42.png?1622181358",
+                "small": "https://assets.coingecko.com/coins/images/15872/small/X3Awe42.png?1622181358",
+                "large": "https://assets.coingecko.com/coins/images/15872/large/X3Awe42.png?1622181358",
+                "slug": "wall-street-games",
+                "price_btc": 1.272368156691072e-12,
+                "score": 1
+            }
+        },
+        {
+            "item": {
+                "id": "axie-infinity",
+                "coin_id": 13029,
+                "name": "Axie Infinity",
+                "symbol": "AXS",
+                "market_cap_rank": 50,
+                "thumb": "https://assets.coingecko.com/coins/images/13029/thumb/axie_infinity_logo.png?1604471082",
+                "small": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082",
+                "large": "https://assets.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1604471082",
+                "slug": "axie-infinity",
+                "price_btc": 0.0010628638150044407,
+                "score": 2
+            }
+        },
+        {
+            "item": {
+                "id": "mist",
+                "coin_id": 14841,
+                "name": "Mist",
+                "symbol": "MIST",
+                "market_cap_rank": 883,
+                "thumb": "https://assets.coingecko.com/coins/images/14841/thumb/mist.jpg?1618629293",
+                "small": "https://assets.coingecko.com/coins/images/14841/small/mist.jpg?1618629293",
+                "large": "https://assets.coingecko.com/coins/images/14841/large/mist.jpg?1618629293",
+                "slug": "mist",
+                "price_btc": 4.541799278653342e-06,
+                "score": 3
+            }
+        },
+        {
+            "item": {
+                "id": "my-defi-pet",
+                "coin_id": 15321,
+                "name": "My DeFi Pet",
+                "symbol": "DPET",
+                "market_cap_rank": 293,
+                "thumb": "https://assets.coingecko.com/coins/images/15321/thumb/mydefi.PNG?1620512455",
+                "small": "https://assets.coingecko.com/coins/images/15321/small/mydefi.PNG?1620512455",
+                "large": "https://assets.coingecko.com/coins/images/15321/large/mydefi.PNG?1620512455",
+                "slug": "my-defi-pet",
+                "price_btc": 0.00022090114159574136,
+                "score": 4
+            }
+        },
+        {
+            "item": {
+                "id": "smooth-love-potion",
+                "coin_id": 10366,
+                "name": "Smooth Love Potion",
+                "symbol": "SLP",
+                "market_cap_rank": 237,
+                "thumb": "https://assets.coingecko.com/coins/images/10366/thumb/SLP.png?1578640057",
+                "small": "https://assets.coingecko.com/coins/images/10366/small/SLP.png?1578640057",
+                "large": "https://assets.coingecko.com/coins/images/10366/large/SLP.png?1578640057",
+                "slug": "smooth-love-potion",
+                "price_btc": 7.332848951018694e-06,
+                "score": 5
+            }
+        },
+        {
+            "item": {
+                "id": "binancecoin",
+                "coin_id": 825,
+                "name": "Binance Coin",
+                "symbol": "BNB",
+                "market_cap_rank": 4,
+                "thumb": "https://assets.coingecko.com/coins/images/825/thumb/binance-coin-logo.png?1547034615",
+                "small": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615",
+                "large": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png?1547034615",
+                "slug": "binance-coin",
+                "price_btc": 0.008338543301503824,
+                "score": 6
+            }
+        }
+    ],
+    "exchanges": []
+}
